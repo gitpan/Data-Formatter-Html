@@ -1,5 +1,8 @@
 Revision history for Perl extension Data::Formatter::Html.
 
+0.02  Fri Apr 18 15:30:00 2008
+    - Fixed a typo in the documentation that was kindly pointed out by user "skim".
+
 0.01  Sun Jan 27 17:13:02 2008
 	- original version; created by h2xs 1.23 with options
 		-AX Data::Formatter::Html

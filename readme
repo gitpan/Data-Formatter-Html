@@ -1,4 +1,4 @@
-Data-Formatter-Html version 0.01
+Data-Formatter-Html version 0.02
 ================================
 
 This module that converts Perl data structures into HTML code, 
